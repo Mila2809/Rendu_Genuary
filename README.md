@@ -8,7 +8,7 @@
  
 Ce site est ma forêt personnelle : 31 œuvres algorithmiques, chacune unique, chacune vivante.
 
-## 🌲 Sylva — L'Esprit de la Forêt
+## 🌲 Sylva, L'Esprit de la Forêt
  
 Le site intègre **Sylva**, un chatbot IA gardienne des 31 Genuaries. Elle répond à tes questions sur les œuvres, le code génératif, et la forêt algorithmique.
  
