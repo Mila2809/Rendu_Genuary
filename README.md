@@ -1,4 +1,4 @@
-# 🌿 La Forêt des Codes — Genuary 2026
+# 🌿 La Forêt des Codes - Genuary
 
 <img width="657" height="420" alt="image" src="https://github.com/user-attachments/assets/e3a78fa0-597c-4ab9-8494-435979443f44" />
 
